@@ -4,4 +4,4 @@ function sum(a,b){
 
 console.log("Hello world");
 
-console.log(sum(5,10));
+console.log(sum(3,10));
